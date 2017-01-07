@@ -116,6 +116,7 @@ User
 |!link | | when the user is the DJ, give a link to the current song |
 |!op | | links to the OverPlayed list (if set in the settings) |
 |!ping | | pong! |
+|!pbot | | Checks to see if PartyBot is online |
 |!purchase | | returns link to purchase more plug notes |
 |!rules | | links to the rules (if set in the settings) |
 |!theme | | links to the room's theme (if set in the settings) |
