@@ -181,6 +181,7 @@
     "unmuted": "\/me [@%%NAME%%] Unmuted @%%USERNAME%%.",
     "muterank": "\/me [@%%NAME%%] You can't mute persons with an equal or higher rank than you.",
     "oplist": "\/me OP list: %%LINK%%",
+    "pbot": "\/me @%%NAME%% screamed PartyBot's name into the distance. After a moment passed, @%%NAME%% got the answer they were looking for. \"Sup.\"",
     "pong": "\/me Pong!",
     "reload": "\/me Be right back.",
     "removenotinwl": "\/me [@%%NAME%%] Specified user @%%USERNAME%% is not in the waitlist.",
